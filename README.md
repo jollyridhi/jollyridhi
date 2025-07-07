@@ -35,12 +35,12 @@
 
 ## 💼 Featured Projects
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| [FixItNow](https://github.com/jollyridhi/mobile-repair-website) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | Mobile repair platform with real-time tracking and Razorpay integration |
-| [SwitchStream](https://github.com/jollyridhi/Switch_Stream) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white) | High-performance streaming app with real-time chat and viewer interaction |
-| [VolksMarkt](https://github.com/jollyridhi/VolksMarkt) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) | Bennett-campus digital storefront |
-| [Visitor Management Suite](https://github.com/jollyridhi/VMS) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white) | Automated check-in and admin dashboard with full QA testing suite |
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [**FixItNow**](https://github.com/jollyridhi/mobile-repair-website) | `Next.js`, `MongoDB`, `Tailwind`, `Razorpay` | Mobile repair platform with dynamic pricing, OTP login, and order tracking |
+| [**SwitchStream**](https://github.com/jollyridhi/Switch_Stream) | `Next.js`, `TypeScript`, `MySQL`, `LiveKit` | High-performance streaming app for 5,000+ users with real-time chat |
+| [**VolksMarkt**](https://github.com/jollyridhi/VolksMarkt) | `React`, `Django`, `SQLite` | Full-stack marketplace to digitize stores on Bennett campus |
+| [**Enterprise-Visitor-Access-Suite**](https://github.com/jollyridhi/VMS) | `Java`, `React`, `MySQL`, `Selenium` | Automated visitor check-in system with complete test automation suite |
 
 ---
 
@@ -51,9 +51,13 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jollyridhi&show_icons=true&theme=radical&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jollyridhi&theme=radical" />
 
+<br/>
+
 <img src="https://leetcard.jacoblin.cool/ridhi9?ext=contest&theme=dark" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jollyridhi&layout=compact&theme=radical&langs_count=8&hide=css&include_java=true)
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jollyridhi&layout=compact&theme=radical&langs_count=8&hide=css)
 
 </div>
 
@@ -62,12 +66,20 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:ridhijolly9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-<a href="https://linkedin.com/in/ridhi-jolly-68a926248"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-<a href="https://github.com/jollyridhi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-<a href="https://leetcode.com/ridhi9"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge"></a>
+  <a href="mailto:ridhijolly9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/ridhi-jolly-68a926248">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/jollyridhi">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/ridhi9">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jollyridhi&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=jollyridhi&color=blueviolet&style=flat" />
 </p>
