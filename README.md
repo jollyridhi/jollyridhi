@@ -44,14 +44,16 @@
 
 ---
 
-## 📈 GitHub Insights
+## 📈 GitHub & LeetCode Insights
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jollyridhi&show_icons=true&theme=radical&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jollyridhi&theme=radical" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jollyridhi&layout=compact&theme=radical)
+<img src="https://leetcard.jacoblin.cool/ridhi9?ext=contest&theme=dark" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jollyridhi&layout=compact&theme=radical&langs_count=8&hide=css&include_java=true)
 
 </div>
 
@@ -63,6 +65,7 @@
 <a href="mailto:ridhijolly9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
 <a href="https://linkedin.com/in/ridhi-jolly-68a926248"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a href="https://github.com/jollyridhi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+<a href="https://leetcode.com/ridhi9"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge"></a>
 </p>
 
 <p align="center">
